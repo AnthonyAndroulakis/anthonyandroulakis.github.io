@@ -1,5 +1,5 @@
 # anthonyandroulakis.github.io
 Web tests:
 
-<a href="http://github.io/anthonyandroulakis/anthonyandroulakis.github.io/SoundcloudScrollingTranscript/index.html">Soundcloud scrolling transcript</a>
+<a href="http://anthonyandroulakis.github.io/anthonyandroulakis.github.io/SoundcloudScrollingTranscript/index.html">Soundcloud scrolling transcript</a>
 
